@@ -17,10 +17,15 @@
 </h3>
 
 
+<h2>Contact</h2>
+<div align="center">
+    <h3>Personal</h3>
+</div>
 
 
+
+<h2>Modules</h2>
 <div display="flex" align="center">
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-kon&layout=pie)](https://github.com/Aleksey-Kon)
 
