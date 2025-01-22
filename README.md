@@ -5,10 +5,10 @@
 <p align="center" text-align="center">Eva Platformer is a platformer game where you collect coins and keys. You play as the main character Eva. Gather all the coins and fight the enemies.</p>
 <!-- <img src="https://github.com/Aleksey-Kon/Aleksey-Kon/blob/main/evademo1.gif" height="150"></img> -->
 <div display="flex" align="center">
-    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva2.jpg" height="250"></img>
-    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva1.jpg" height="250"></img>
-    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva5.jpg" height="250"></img>
-    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva3.jpg" height="250"></img>
+    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva2.jpg" height="150"></img>
+    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva1.jpg" height="150"></img>
+    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva5.jpg" height="150"></img>
+    <img src="https://aleksey-kon-games.fsky.io/images/eva/eva3.jpg" height="150"></img>
 </div>
 
 
