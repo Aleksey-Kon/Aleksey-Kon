@@ -20,6 +20,9 @@
 <h2>Contact</h2>
 <div align="center">
     <h3>Personal</h3>
+    <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
+    <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.png" alt="vk"></a>
+    
 </div>
 
 
