@@ -31,6 +31,7 @@
     <h3>Company</h3>
     <p>Email: <a href="mailto:alekseykongames@gmail.com">alekseykongames@gmail.com</a></p>
     <div>
+            <a href="https://aleksey-kon-games.fsky.io" target="_blank"><img height="50" src="/images/icon-site-game.png" alt="Telegram"></a>
             <a href="https://t.me/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
             <a href="https://www.youtube.com/@AlekseyKonGames" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/youtube.png" alt="YouTube"></a>
             <a href="https://store.steampowered.com/developer/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/steam.png" alt="Steam"></a>
