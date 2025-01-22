@@ -27,8 +27,14 @@
     <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
     <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.png" alt="vk"></a>
     <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.png" alt="ds"></a>
+    <a href="https://disk.yandex.ru/d/NhHPgHilya7cZg"><img height="50" src="https://aleksey-kon-games.fsky.io/images/portfolio.png" alt="ds"></a>
     <h3>Company</h3>
     <p>Email: <a href="mailto:alekseykongames@gmail.com">alekseykongames@gmail.com</a></p>
+    <div>
+            <a href="https://t.me/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
+            <a href="https://www.youtube.com/@AlekseyKonGames" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/youtube.png" alt="YouTube"></a>
+            <a href="https://store.steampowered.com/developer/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/steam.png" alt="Steam"></a>
+        </div>
 </div>
 
 
