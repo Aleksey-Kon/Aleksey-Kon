@@ -10,7 +10,7 @@
     <img src="https://aleksey-kon-games.fsky.io/images/eva/eva5.jpg" height="200"></img>
     <img src="https://aleksey-kon-games.fsky.io/images/eva/eva3.jpg" height="200"></img>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
