@@ -13,13 +13,14 @@
 </div>
 
 
-
+<div display="flex" align="center">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-kon&layout=pie)](https://github.com/Aleksey-Kon)
 
+</div>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aleksey-Kon/Aleksey-Kon/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aleksey-Kon/Aleksey-Kon/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Aleksey-Kon/Aleksey-Kon/blob/output/github-contribution-grid-snake.svg" />
