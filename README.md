@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>My Projects</h2>
 <h3 align="center">Eva Platformer</h3>
-<p align="center" text-align="center">Eva Platformer is a platformer game where you collect coins and keys. You play as the main character Eva. Gather all the coins and fight the enemies. <a href="https://store.steampowered.com/app/3176450/Eva_Platformer/">View on Steam</a></p>
+<p align="center" text-align="center">Eva Platformer is a platformer game where you collect coins and keys. You play as the main character Eva. Gather all the coins and fight the enemies. </p>
 
 <!-- <img src="https://github.com/Aleksey-Kon/Aleksey-Kon/blob/main/evademo1.gif" height="150"></img> -->
 <div display="flex" align="center">
