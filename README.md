@@ -22,7 +22,7 @@
     <h3>Personal</h3>
     <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
     <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.png" alt="vk"></a>
-    
+    <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.png" alt="ds"></a>
 </div>
 
 
