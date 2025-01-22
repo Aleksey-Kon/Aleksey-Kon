@@ -16,5 +16,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-kon&layout=pie)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey-kon&layout=pie)](https://github.com/Aleksey-Kon)
 
