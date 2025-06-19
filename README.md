@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>About Me</h2>
-<p>I’m a solo game developer from Russia. Currently, I’m working on a game for Steam called Eva Platformer. I'm 19 years old. I started learning C# and Unity at the age of 17! I completed courses to become a Unity developer. I have participated in several contests: Cyberfest, Start the Game. I also have basic knowledge of Spine 2D, 2D design and animation, Level Design, and C# WPF.</p>
+<p>I’m a solo game developer from Russia. Currently, I’m working on a game for Steam called Eva Platformer. I'm 20 years old. I started learning C# and Unity at the age of 17! I completed courses to become a Unity developer. I have participated in several contests: Cyberfest, Start the Game. I also have basic knowledge of Spine 2D, 2D design and animation, Level Design, and C# WPF.</p>
 
 <h2>My Projects</h2>
 <h3 align="center">Eva Platformer</h3>
