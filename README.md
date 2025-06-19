@@ -20,6 +20,22 @@
     <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/steam.png" alt="Steam"></img></a>
 </h3>
 
+<h3 align="center">Aleksey Kon Crypt</h3>
+<p align="center" text-align="center">AlekseyKonCrypt is a Windows 11–style encryption utility designed to encrypt small files using a multi-layered process.
+<img src="https://github.com/user-attachments/assets/c9cbd2f9-d2b8-4edb-a055-da73ef7925f5" height="300"></img>
+</p>
+<h4 align="center" text-align="center">⚙️ Features</h4>
+
+<div align="center">
+
+Encrypts small files with a multi-stage algorithm:  
+• Step 1. 3DES encryption  
+• Step 2. AES encryption  
+• Step 3. Byte shuffling & XOR operation
+
+
+
+</div>
 
 <h2>Links</h2>
 <div align="center">
