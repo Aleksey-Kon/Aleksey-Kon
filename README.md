@@ -36,6 +36,8 @@ Encrypts small files with a multi-stage algorithm:
 
 
 </div>
+<h3 align="center"> <a align="center" href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt">Source</a></h3>
+<h3 align="center"> <a align="center" href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt/releases">Download</a></h3>
 
 <h2>Links</h2>
 <div align="center">
