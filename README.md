@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center"> <a align="center" href="https://store.steampowered.com/app/3176450/Eva_Platformer">View on Steam
-    <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/steam.png" alt="Steam"></img></a>
+    <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/steam.webp" alt="Steam"></img></a>
 </h3>
 
 <h3 align="center">Aleksey Kon Crypt</h3>
@@ -42,17 +42,17 @@ Encrypts small files with a multi-stage algorithm:
 <h2>Links</h2>
 <div align="center">
     <h3>Personal</h3>
-    <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
-    <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.png" alt="vk"></a>
-    <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.png" alt="ds"></a>
-    <a href="https://disk.yandex.ru/d/NhHPgHilya7cZg"><img height="50" src="https://aleksey-kon-games.fsky.io/images/portfolio.png" alt="ds"></a>
+    <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.webp" alt="Telegram"></a>
+    <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.webp" alt="vk"></a>
+    <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.webp" alt="ds"></a>
+    <a href="https://disk.yandex.ru/d/NhHPgHilya7cZg"><img height="50" src="https://aleksey-kon-games.fsky.io/images/portfolio.webp" alt="ds"></a>
     <h3>Company</h3>
     <p>Email: <a href="mailto:alekseykongames@gmail.com">alekseykongames@gmail.com</a></p>
     <div>
-            <a href="https://aleksey-kon-games.fsky.io" target="_blank"><img height="50" src="/images/icon-site-game.png" alt="Telegram"></a>
-            <a href="https://t.me/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.png" alt="Telegram"></a>
-            <a href="https://www.youtube.com/@AlekseyKonGames" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/youtube.png" alt="YouTube"></a>
-            <a href="https://store.steampowered.com/developer/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/steam.png" alt="Steam"></a>
+            <a href="https://aleksey-kon-games.fsky.io" target="_blank"><img height="50" src="/images/icon-site-game.webp" alt="Telegram"></a>
+            <a href="https://t.me/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.webp" alt="Telegram"></a>
+            <a href="https://www.youtube.com/@AlekseyKonGames" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/youtube.webp" alt="YouTube"></a>
+            <a href="https://store.steampowered.com/developer/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/steam.webp" alt="Steam"></a>
         </div>
 </div>
 
