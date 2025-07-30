@@ -44,7 +44,7 @@ Encrypts small files with a multi-stage algorithm:
     <h3>Personal</h3>
     <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.webp" alt="Telegram"></a>
     <a href="https://vk.com/aleksey_kon"><img height="50" src="https://aleksey-kon-games.fsky.io/images/vk.webp" alt="vk"></a>
-    <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.webp" alt="ds"></a>
+    <a href="https://discordapp.com/users/713046968187748414"><img height="50" src="/images/ds.png" alt="ds"></a>
     <a href="https://disk.yandex.ru/d/NhHPgHilya7cZg"><img height="50" src="https://aleksey-kon-games.fsky.io/images/portfolio.webp" alt="ds"></a>
     <h3>Company</h3>
     <p>Email: <a href="mailto:alekseykongames@gmail.com">alekseykongames@gmail.com</a></p>
