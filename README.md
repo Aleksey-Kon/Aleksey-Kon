@@ -49,7 +49,7 @@ Encrypts small files with a multi-stage algorithm:
     <h3>Company</h3>
     <p>Email: <a href="mailto:alekseykongames@gmail.com">alekseykongames@gmail.com</a></p>
     <div>
-            <a href="https://aleksey-kon-games.fsky.io" target="_blank"><img height="50" src="/images/icon-site-game.webp" alt="Telegram"></a>
+            <a href="https://aleksey-kon-games.fsky.io" target="_blank"><img height="50" src="/images/icon-site-game.png" alt="Site"></a>
             <a href="https://t.me/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/tg.webp" alt="Telegram"></a>
             <a href="https://www.youtube.com/@AlekseyKonGames" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/youtube.webp" alt="YouTube"></a>
             <a href="https://store.steampowered.com/developer/Aleksey_Kon_Games" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/steam.webp" alt="Steam"></a>
