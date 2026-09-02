@@ -128,7 +128,7 @@ I have experience with client-server architecture, MVC, dependency injection, as
 
 <div align="center">
     <img
-        src="./assets/gamedevkrd.png"
+        src="./images/gamedevkrd.webp"
         width="800"
         alt="GameDev Krasnodar Website"
     />
