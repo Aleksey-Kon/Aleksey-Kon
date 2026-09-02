@@ -31,7 +31,7 @@ I have experience with client-server architecture, MVC, dependency injection, as
 </div>
 
 <h3 align="center"> <a align="center" href="https://store.steampowered.com/app/3176450/Eva_Platformer">View on Steam
-    <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/steam.webp" alt="Steam"></img></a>
+    <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/icons/steam.webp" alt="Steam"></img></a>
 </h3>
 
 <h3 align="center">Aleksey Kon Crypt</h3>
