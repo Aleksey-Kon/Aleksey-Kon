@@ -117,6 +117,34 @@ I have experience with client-server architecture, MVC, dependency injection, as
 <br>
 
 
+<h2 align="center">GameDev Krasnodar</h2>
+
+<p align="center">
+    Website developed for the GameDev community in Krasnodar.
+    <br>
+    Built with React and Node.js (Express.js), providing a modern platform
+    for the local game development community.
+</p>
+
+<div align="center">
+    <img
+        src="./assets/gamedevkrd.png"
+        width="800"
+        alt="GameDev Krasnodar Website"
+    />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://gamedevkrd.ru/">
+        <img
+            src="https://img.shields.io/badge/Visit_Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white"
+            alt="Visit Website"
+        >
+    </a>
+</div>
+
 
 
 <h2 align="center">Aleksey Kon Crypt</h2>
