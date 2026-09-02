@@ -15,7 +15,11 @@ I have experience with client-server architecture, MVC, dependency injection, as
 [![Zenject](https://img.shields.io/badge/Zenject-6DB33F?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
 [![DOTween](https://img.shields.io/badge/DOTween-FF6B6B?style=for-the-badge&logo=unity&logoColor=white)](https://dotween.demigiant.com/)
 [![Odin%20Inspector](https://img.shields.io/badge/Odin_Inspector-7B61FF?style=for-the-badge&logo=unity&logoColor=white)](https://odininspector.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) 
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 
 <h2>My Projects</h2>
