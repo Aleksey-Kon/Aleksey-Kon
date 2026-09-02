@@ -144,6 +144,29 @@ Encrypts small files with a multi-stage algorithm:
     <img width="130" src="https://img.shields.io/badge/Download-21262d?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+
+
+<h2>Certificates</h2>
+
+<a href="https://drive.google.com/file/d/1qyELAxiFFt84NS2PJeg0OYqEVVNMJ4PV/view?usp=sharing">
+    <img
+        src="https://img.shields.io/badge/C%23_Game_Developer_with_Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white"
+        alt="C# Game Developer with Unity Certificate"
+    >
+</a>
+
+<br>
+
+<a href="https://drive.google.com/file/d/1OIT_JCzUX61iOTMO9eB2PVXEYO-mxTUL/view?usp=sharing">
+    <img
+        src="https://img.shields.io/badge/GameDev_Hero-0d1117?style=for-the-badge"
+        alt="GameDev Hero Certificate"
+    >
+
+
+
+
+
 <h2>Links</h2>
 <div align="center">
     <h3>Personal</h3>
