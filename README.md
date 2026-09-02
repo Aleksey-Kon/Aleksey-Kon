@@ -49,9 +49,10 @@ Encrypts small files with a multi-stage algorithm:
 
 
 
-</div>
-<h3 align="center"> <a align="center" href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt">Source</a></h3>
-<h3 align="center"> <a align="center" href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt/releases">Download</a></h3>
+<div align="center"> <a href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aleksey-Kon&repo=Aleksey-Kon-Crypt" /> </a> </div>
+<a href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt/releases">
+    <img src="https://img.shields.io/badge/Download-21262d?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <h2>Links</h2>
 <div align="center">
