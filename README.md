@@ -121,8 +121,10 @@ I have experience with client-server architecture, MVC, dependency injection, as
 
 <h2 align="center">Aleksey Kon Crypt</h2>
 <p align="center" text-align="center">AlekseyKonCrypt is a Windows 11–style encryption utility designed to encrypt small files using a multi-layered process.
-<img src="https://github.com/user-attachments/assets/c9cbd2f9-d2b8-4edb-a055-da73ef7925f5" height="300"></img>
 </p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/c9cbd2f9-d2b8-4edb-a055-da73ef7925f5" height="300"></img>
+</div>
 <h4 align="center" text-align="center">✨ Features</h4>
 
 <div align="center">
