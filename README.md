@@ -36,11 +36,13 @@ I have experience with client-server architecture, MVC, dependency injection, as
 
 <div align="center">
     <a href="https://store.steampowered.com/app/3176450/Eva_Platformer">
-        <img
-            src="https://img.shields.io/badge/View_on_Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white"
-            alt="View on Steam"
-        />
-    </a>
+    <img
+        width="180"
+        src="https://img.shields.io/badge/View_on_Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white"
+        alt="View on Steam"
+    />
+</a>
+</a>
 </div>
 
 <br>
@@ -108,7 +110,7 @@ I have experience with client-server architecture, MVC, dependency injection, as
 
 <div align="center">
 <a href="https://github.com/Aleksey-Kon/white-list-test/releases">
-    <img src="https://img.shields.io/badge/Download-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="130" src="https://img.shields.io/badge/Download-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
@@ -137,7 +139,7 @@ Encrypts small files with a multi-stage algorithm:
 
 <div align="center"> <a href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aleksey-Kon&repo=Aleksey-Kon-Crypt" /> </a> </div>
 <a href="https://github.com/Aleksey-Kon/Aleksey-Kon-Crypt/releases">
-    <img src="https://img.shields.io/badge/Download-21262d?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="130" src="https://img.shields.io/badge/Download-21262d?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <h2>Links</h2>
