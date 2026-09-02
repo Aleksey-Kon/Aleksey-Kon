@@ -165,9 +165,8 @@ Encrypts small files with a multi-stage algorithm:
 
 
 
-
-
 <h2>Links</h2>
+
 <div align="center">
     <h3>Personal</h3>
     <a href="https://t.me/aleksey_kon" target="_blank"><img height="50" src="https://aleksey-kon-games.fsky.io/images/icons/tg.webp" alt="Telegram"></a>
