@@ -39,7 +39,7 @@ I have experience with client-server architecture, MVC, dependency injection, as
     </a>
 </div>
 
-
+<br>
 
 <h2 align="center">📱 White List Test</h2>
 
@@ -51,8 +51,8 @@ I have experience with client-server architecture, MVC, dependency injection, as
 
 <div align="center">
     <img
-        src="https://raw.githubusercontent.com/Aleksey-Kon/white-list-test/main/assets/images/icon.png"
-        width="180"
+        src="https://github.com/Aleksey-Kon/white-list-test/blob/main/.assets/screenshot.png"
+        width="250"
         alt="White List Test"
     />
 </div>
