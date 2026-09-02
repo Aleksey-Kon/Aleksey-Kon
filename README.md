@@ -30,9 +30,14 @@ I have experience with client-server architecture, MVC, dependency injection, as
     <img src="https://aleksey-kon-games.fsky.io/images/projects/eva/eva3.webp" height="210"></img>
 </div>
 
-<h3 align="center"> <a align="center" href="https://store.steampowered.com/app/3176450/Eva_Platformer">View on Steam
-    <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/icons/steam.webp" alt="Steam"></img></a>
-</h3>
+<div align="center">
+    <a href="https://store.steampowered.com/app/3176450/Eva_Platformer">
+        <img
+            src="https://img.shields.io/badge/View_on_Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white"
+            alt="View on Steam"
+        />
+    </a>
+</div>
 
 
 
@@ -61,8 +66,9 @@ I have experience with client-server architecture, MVC, dependency injection, as
 <h4 align="center" text-align="center">✨ Features</h4>
 
 <div align="center">
+
 • Domain whitelist checking
-    
+ 
 • Mobile-first interface
 
 • Fast and responsive application
@@ -116,6 +122,7 @@ I have experience with client-server architecture, MVC, dependency injection, as
 <div align="center">
 
 Encrypts small files with a multi-stage algorithm:  
+
 • Step 1. 3DES encryption  
 
 • Step 2. AES encryption 
