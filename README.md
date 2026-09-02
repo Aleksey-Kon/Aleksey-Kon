@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://aleksey-kon-games.fsky.io/#team" target="_blank">Aleksey Kon</a> 
+<h1 align="center">Hi, I'm Aleksey Unity Developer
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>About Me</h2>
