@@ -34,17 +34,92 @@ I have experience with client-server architecture, MVC, dependency injection, as
     <img height="50" align="center" src="https://aleksey-kon-games.fsky.io/images/icons/steam.webp" alt="Steam"></img></a>
 </h3>
 
-<h3 align="center">Aleksey Kon Crypt</h3>
+
+
+<h2 align="center">📱 White List Test</h2>
+
+<p align="center">
+  <strong>White List Test</strong> is a mobile application designed to
+  check and validate domain whitelists.
+  The application is built with React Native, Expo and TypeScript.
+</p>
+
+<div align="center">
+    <img
+        src="https://raw.githubusercontent.com/Aleksey-Kon/white-list-test/main/assets/images/icon.png"
+        width="180"
+        alt="White List Test"
+    />
+</div>
+
+<br>
+
+
+
+
+
+<h4 align="center" text-align="center">✨ Features</h4>
+
+<div align="center">
+• Domain whitelist checking
+    
+• Mobile-first interface
+
+• Fast and responsive application
+
+• Navigation with Expo Router
+
+• Modern and responsive UI
+  
+</div>
+
+<!-- <h3>🛠️ Technologies</h3>
+
+<p>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+
+  <a href="https://expo.dev/">
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  </a>
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+</p>
+-->
+
+<div align="center">
+    <a href="https://github.com/Aleksey-Kon/white-list-test">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aleksey-Kon&repo=white-list-test" />
+    </a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Aleksey-Kon/white-list-test/releases">
+    <img src="https://img.shields.io/badge/Download-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+<br>
+
+
+
+
+<h2 align="center">Aleksey Kon Crypt</h2>
 <p align="center" text-align="center">AlekseyKonCrypt is a Windows 11–style encryption utility designed to encrypt small files using a multi-layered process.
 <img src="https://github.com/user-attachments/assets/c9cbd2f9-d2b8-4edb-a055-da73ef7925f5" height="300"></img>
 </p>
-<h4 align="center" text-align="center">⚙️ Features</h4>
+<h4 align="center" text-align="center">✨ Features</h4>
 
 <div align="center">
 
 Encrypts small files with a multi-stage algorithm:  
 • Step 1. 3DES encryption  
-• Step 2. AES encryption  
+
+• Step 2. AES encryption 
+
 • Step 3. Byte shuffling & XOR operation
 
 
