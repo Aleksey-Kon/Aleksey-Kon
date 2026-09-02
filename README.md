@@ -2,7 +2,21 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>About Me</h2>
-<p>I’m a solo game developer from Russia. Currently, I’m working on a game for Steam called Eva Platformer. I'm 20 years old. I started learning C# and Unity at the age of 17! I completed courses to become a Unity developer. I have participated in several contests: Cyberfest, Start the Game. I also have basic knowledge of Spine 2D, 2D design and animation, Level Design, and C# WPF.</p>
+<p>Unity Developer focused on building scalable and maintainable game systems.
+
+I have experience with client-server architecture, MVC, dependency injection, asynchronous programming, asset management, animation systems, and editor tooling.</p>
+
+<h2>Technologies</h2>
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Addressables](https://img.shields.io/badge/Addressables-20232A?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity3d.com/Packages/com.unity.addressables@latest/)
+[![UniTask](https://img.shields.io/badge/UniTask-512BD4?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Cysharp/UniTask)
+[![Zenject](https://img.shields.io/badge/Zenject-6DB33F?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
+[![DOTween](https://img.shields.io/badge/DOTween-FF6B6B?style=for-the-badge&logo=unity&logoColor=white)](https://dotween.demigiant.com/)
+[![Odin%20Inspector](https://img.shields.io/badge/Odin_Inspector-7B61FF?style=for-the-badge&logo=unity&logoColor=white)](https://odininspector.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 
 <h2>My Projects</h2>
 <h3 align="center">Eva Platformer</h3>
