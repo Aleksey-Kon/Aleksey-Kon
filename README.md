@@ -76,7 +76,7 @@ Encrypts small files with a multi-stage algorithm:
 <h2>Modules</h2>
 <div display="flex" align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aleksey-Kon&langs_count=5)](https://github-stats-extended.vercel.app/api/top-langs?username=Aleksey-Kon&langs_count=5)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aleksey-Kon&langs_count=5)
 
 </div>
 
